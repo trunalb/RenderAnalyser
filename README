@@ -1,0 +1,1 @@
+Hook into Safari or Chrome's Timing Panel to calculate total layout counts/time, total paint counts/time and total recalculate counts/time. Currently the script is very naive, will need continual improvement!
